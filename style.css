@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  font-family: "Noto Sans KR", sans-serif;
+  font-size: 4vmin;
+  line-height: 1.25;
+  touch-action: manipulation;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+label,
+input {
+  width: 30vmin;
+  cursor: pointer;
+}
+
+label {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input {
+  border: none;
+  padding: 0;
+  background-color: rgba(0, 0, 0, 0);
+  font-family: "Noto Sans KR", sans-serif;
+  font-size: 4vmin;
+  line-height: 1.25;
+  color: black;
+}
+
+a {
+  font-size: 2vmin;
+  color: #888;
+  text-decoration: none;
+}
+
+.m-a {
+  margin: auto;
+}
+
+.mt-5 {
+  margin-top: 5vmin;
+}
+
+.mt-10 {
+  margin-top: 10vmin;
+}
+
+.mb-20 {
+  margin-bottom: 20vmin;
+}
+
+.br-2-5 {
+  border-radius: 2.5vmin;
+}
+
+.w-70 {
+  width: 70vmin;
+}
+
+.w-80 {
+  width: 80vmin;
+}
+
+.h-10 {
+  height: 10vmin;
+}
+
+.fs-8 {
+  font-size: 8vmin;
+}
+
+.fd-r {
+  flex-direction: row;
+}
