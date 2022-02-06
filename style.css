@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#container {
+  margin: auto;
+  flex-direction: column;
+}
+
+.item {
+  height: 25%;
+}
+
+#age {
+  font-size: xx-large;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
