@@ -1,2 +1,1 @@
-# decimal-age
-Decimal Age
+# [Decimal Age](https://decimalage.ml)
