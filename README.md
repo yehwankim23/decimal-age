@@ -1,1 +1,1 @@
-# [Decimal Age](https://decimalage.ml)
+# [Decimal Age](https://decimalage.netlify.app)
